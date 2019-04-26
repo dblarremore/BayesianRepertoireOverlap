@@ -2,7 +2,7 @@
 
 The notebook [manuscriptCalculations.ipynb](https://github.com/dblarremore/BayesianRepertoireOverlap/blob/master/manuscriptCalculations.ipynb) reproduces all figures and calculations of the manuscript that accompanies this project.
 
-To read the paper that is the basis of all calculations, see [bioRxiv](https://www.biorxiv.org/content/early/2018/06/11/343152).
+To read the paper that is the basis of all calculations, see [PLOS Comp Bio](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006898).
 
 The file util.py is from Samuel Way, and includes some shortcuts to making nicer plots.
 
